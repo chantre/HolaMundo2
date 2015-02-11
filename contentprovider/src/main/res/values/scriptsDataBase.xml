@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="versionDataBase">1</integer>
+
+    <string-array name="scriptCreateNoticias">
+        <item>CREATE TABLE [Noticias] ([id] INTEGER  NOT NULL PRIMARY KEY AUTOINCREMENT,[Titular] VARCHAR(150)  NULL,[Fecha] TIMESTAMP  NULL,[Autor] VARCHAR(150)  NULL,[Contenido] TEXT  NULL)</item>
+    </string-array>
+    <string-array name="scriptUpdateNoticias_1_2">
+        <!--Crear autores-->
+    </string-array>
+    <string-array name="scriptUpdateNoticias_1_3">
+        <!--Crea autores
+        Modifica noticias-->
+    </string-array>
+    <string-array name="scriptUpdateNoticias_2_3">
+
+    </string-array>
+
+</resources>

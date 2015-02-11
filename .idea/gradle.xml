@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/basededatos" />
+            <option value="$PROJECT_DIR$/contentprovider" />
+            <option value="$PROJECT_DIR$/contentprovidercleinte_contentresolver" />
+            <option value="$PROJECT_DIR$/intentservice" />
+            <option value="$PROJECT_DIR$/noticiasutils" />
+            <option value="$PROJECT_DIR$/notificaciones" />
+            <option value="$PROJECT_DIR$/parserxml" />
+            <option value="$PROJECT_DIR$/serviciolocal" />
+            <option value="$PROJECT_DIR$/servicioremotoaidl" />
+            <option value="$PROJECT_DIR$/servicioremotomessenger" />
+            <option value="$PROJECT_DIR$/servicioremotomessengercliente" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

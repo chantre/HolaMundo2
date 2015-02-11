@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sdc.curso.contentprovider" >
+
+    <!-- lo generamos nosotros-->
+    <permission android:name="com.sdc.curso.contentprovider.NOTICIAS_PROVIDER_READ"/>
+    <permission android:name="com.sdc.curso.contentprovider.NOTICIAS_PROVIDER_WRITE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+    <!--Una aplicación con el premiros de escritura o lectura
+    en uses-permission cone se valor erá la que pueda acceder/escribir-->
+        <provider
+            android:name=".NoticiasContentProvider"
+            android:authorities="com.curso.android.contentprovider"
+            android:readPermission="com.sdc.curso.contentprovider.NOTICIAS_PROVIDER_READ"
+            android:writePermission="com.sdc.curso.contentprovider.NOTICIAS_PROVIDER_WRITE"
+            android:enabled="true"
+            android:exported="true" >
+        </provider>
+    </application>
+
+</manifest>

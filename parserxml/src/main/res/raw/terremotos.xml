@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom">
+    <title>USGS All Earthquakes, Past Day</title>
+    <updated>2015-02-10T09:08:22Z</updated>
+    <author>
+        <name>U.S. Geological Survey</name>
+        <uri>http://earthquake.usgs.gov/</uri>
+    </author>
+    <id>http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom</id>
+    <link href="http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.atom" rel="self" />
+    <icon>http://earthquake.usgs.gov/favicon.ico</icon>
+    <entry>
+        <id>urn:earthquake-usgs-gov:hv:60848856</id>
+        <title>M 2.1 - 10km WNW of Volcano, Hawaii</title>
+        <updated>2015-02-10T09:03:16.289Z</updated>
+        <link href="http://earthquake.usgs.gov/earthquakes/eventpage/hv60848856" rel="alternate"
+            type="text/html" />
+        <summary type="html">
+            <![CDATA[<dl><dt>Time</dt><dd>2015-02-10 08:57:24 UTC</dd><dd>2015-02-09 22:57:24 -10:00 at epicenter</dd><dt>Location</dt><dd>19.461&deg;N 155.331&deg;W</dd><dt>Depth</dt><dd>5.50 km (3.42 mi)</dd></dl>]]></summary>
+        <georss:point>19.4605 -155.3308</georss:point>
+        <georss:elev>-5500</georss:elev>
+        <category label="Age" term="Past Hour" />
+        <category label="Magnitude" term="Magnitude 2" />
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:nm:60068692</id>
+        <title>M 2.2 - 4km NE of Ridgely, Tennessee</title>
+        <updated>2015-02-10T08:34:15.283Z</updated>
+        <link href="http://earthquake.usgs.gov/earthquakes/eventpage/nm60068692" rel="alternate"
+            type="text/html" />
+        <link href="http://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60068692.cap"
+            rel="alternate" type="application/cap+xml" />
+        <summary type="html">
+            <![CDATA[<p class="quicksummary"><a href="http://earthquake.usgs.gov/earthquakes/eventpage/nm60068692#dyfi" class="mmi-I" title="Did You Feel It? maximum reported intensity (0 reports)">DYFI? - <strong class="roman">I</strong></a></p><dl><dt>Time</dt><dd>2015-02-10 08:23:49 UTC</dd><dd>2015-02-10 02:23:49 -06:00 at epicenter</dd><dt>Location</dt><dd>36.292&deg;N 89.453&deg;W</dd><dt>Depth</dt><dd>0.10 km (0.06 mi)</dd></dl>]]></summary>
+        <georss:point>36.2916 -89.4525</georss:point>
+        <georss:elev>-100</georss:elev>
+        <category label="Age" term="Past Hour" />
+        <category label="Magnitude" term="Magnitude 2" />
+    </entry>
+    <entry>
+        <id>urn:earthquake-usgs-gov:nm:60068687</id>
+        <title>M 2.2 - 3km ENE of Ridgely, Tennessee</title>
+        <updated>2015-02-10T08:33:02.254Z</updated>
+        <link href="http://earthquake.usgs.gov/earthquakes/eventpage/nm60068687" rel="alternate"
+            type="text/html" />
+        <link href="http://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60068687.cap"
+            rel="alternate" type="application/cap+xml" />
+        <summary type="html">
+            <![CDATA[<p class="quicksummary"><a href="http://earthquake.usgs.gov/earthquakes/eventpage/nm60068687#dyfi" class="mmi-I" title="Did You Feel It? maximum reported intensity (0 reports)">DYFI? - <strong class="roman">I</strong></a></p><dl><dt>Time</dt><dd>2015-02-10 08:19:56 UTC</dd><dd>2015-02-10 02:19:56 -06:00 at epicenter</dd><dt>Location</dt><dd>36.280&deg;N 89.452&deg;W</dd><dt>Depth</dt><dd>0.30 km (0.19 mi)</dd></dl>]]></summary>
+        <georss:point>36.2802 -89.4518</georss:point>
+        <georss:elev>-300</georss:elev>
+        <category label="Age" term="Past Hour" />
+<category label="Magnitude" term="Magnitude 2" />
+    </entry>
+</feed>

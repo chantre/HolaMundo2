@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HolaMundo2.iml" filepath="$PROJECT_DIR$/HolaMundo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basededatos/basededatos.iml" filepath="$PROJECT_DIR$/basededatos/basededatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovidercleinte_contentresolver/contentprovidercleinte_contentresolver.iml" filepath="$PROJECT_DIR$/contentprovidercleinte_contentresolver/contentprovidercleinte_contentresolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noticiasutils/noticiasutils.iml" filepath="$PROJECT_DIR$/noticiasutils/noticiasutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificaciones/notificaciones.iml" filepath="$PROJECT_DIR$/notificaciones/notificaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parserxml/parserxml.iml" filepath="$PROJECT_DIR$/parserxml/parserxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviciolocal/serviciolocal.iml" filepath="$PROJECT_DIR$/serviciolocal/serviciolocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicioremotoaidl/servicioremotoaidl.iml" filepath="$PROJECT_DIR$/servicioremotoaidl/servicioremotoaidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicioremotomessenger/servicioremotomessenger.iml" filepath="$PROJECT_DIR$/servicioremotomessenger/servicioremotomessenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicioremotomessengercliente/servicioremotomessengercliente.iml" filepath="$PROJECT_DIR$/servicioremotomessengercliente/servicioremotomessengercliente.iml" />
+    </modules>
+  </component>
+</project>
+
