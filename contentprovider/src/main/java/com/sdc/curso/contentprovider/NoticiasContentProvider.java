@@ -14,7 +14,7 @@ public class NoticiasContentProvider extends ContentProvider {
     public static final String TABLA_NOTICIAS = "Noticias";
     private SQLiteDatabase db;
     //  para la creacion de uris,tenemos el UriMatcher que viene siendo un Bundle
-    //  Es estático, una vex creado no se toca
+    //  Es estático, una vez creado no se toca
     private static UriMatcher matcher = new UriMatcher(UriMatcher.NO_MATCH);//se inicializa vacía con el NO_MATCH
 
     private static final int CODE_NOTICIAS = 1;
