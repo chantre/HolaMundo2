@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HolaMundo2.iml" filepath="$PROJECT_DIR$/HolaMundo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alarmmanager/alarmmanager.iml" filepath="$PROJECT_DIR$/alarmmanager/alarmmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
       <module fileurl="file://$PROJECT_DIR$/basededatos/basededatos.iml" filepath="$PROJECT_DIR$/basededatos/basededatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovidercleinte_contentresolver/contentprovidercleinte_contentresolver.iml" filepath="$PROJECT_DIR$/contentprovidercleinte_contentresolver/contentprovidercleinte_contentresolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlemap/googlemap.iml" filepath="$PROJECT_DIR$/googlemap/googlemap.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/noticiasutils/noticiasutils.iml" filepath="$PROJECT_DIR$/noticiasutils/noticiasutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificaciones/notificaciones.iml" filepath="$PROJECT_DIR$/notificaciones/notificaciones.iml" />
